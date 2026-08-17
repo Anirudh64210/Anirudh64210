@@ -1,0 +1,34 @@
+name: keep the almanac
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  almanac:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: render the almanac
+        env:
+          # ALMANAC_TOKEN is a personal access token with read:user scope.
+          # Set it to include private contributions; without it this falls
+          # back to public-only numbers.
+          GITHUB_TOKEN: ${{ secrets.ALMANAC_TOKEN || secrets.GITHUB_TOKEN }}
+          ALMANAC_USER: ${{ github.repository_owner }}
+        run: python3 scripts/almanac.py
+
+      - name: commit if it changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "tend the almanac"
+          git push
