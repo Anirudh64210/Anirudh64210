@@ -77,6 +77,12 @@ def render(calendar):
         key = (int(iso[:4]), int(iso[5:7]))
         months[key] = months.get(key, 0) + count
 
+    # the calendar starts mid-month a year back, so the first month is a
+    # stub -- drop empty leading months rather than open on a dead row
+    keys = list(months)
+    while len(keys) > 1 and months[keys[0]] == 0:
+        del months[keys.pop(0)]
+
     peak = max(months.values()) or 1
     lines = ["  ── the almanac ──────────────────────", ""]
 
