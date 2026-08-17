@@ -88,15 +88,40 @@
 
 ## 🌾 the plot
 
-<sub><i>every square is a day i showed up</i></sub>
+<sub><i>a year of showing up, tallied by hand every night</i></sub>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/output/snake.svg" alt="a snake grazing through my contributions">
 </p>
 
-<p align="center">
-  <img src="https://ghchart.rshah.org/E8B44A/Anirudh64210" alt="a year of showing up">
-</p>
+<!-- ALMANAC:START -->
+
+```
+  ── the almanac ──────────────────────
+
+   2025
+   sep  ██████░░░░░░░░░░   13
+   oct  █░░░░░░░░░░░░░░░    1
+   nov  ░░░░░░░░░░░░░░░░    0
+   dec  ░░░░░░░░░░░░░░░░    0
+
+   2026
+   jan  ░░░░░░░░░░░░░░░░    0
+   feb  ░░░░░░░░░░░░░░░░    0
+   mar  █░░░░░░░░░░░░░░░    1
+   apr  ██████████░░░░░░   21
+   may  █░░░░░░░░░░░░░░░    1
+   jun  ████████████████   35
+   jul  ██░░░░░░░░░░░░░░    4
+   aug  ███░░░░░░░░░░░░░    6
+
+  ────────────────────────────────────
+   busiest month .. jun 2026
+   longest streak . 6 days
+   total .......... 82
+```
+
+<!-- ALMANAC:END -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
