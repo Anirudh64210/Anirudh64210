@@ -95,7 +95,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Anirudh64210&bg_color=14110E&color=E8B44A&line=C1633C&point=D9CDB8&area=true&area_color=E8B44A&hide_border=true&custom_title=the%20last%2031%20days" alt="">
+  <img src="https://ghchart.rshah.org/E8B44A/Anirudh64210" alt="a year of showing up">
 </p>
 
 <p align="center">
