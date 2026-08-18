@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=700&color=E8B44A&center=true&vCenter=true&width=700&height=45&lines=i+take+language+models+apart+to+see+what+they+compute;i+help+automate+an+aquaponics+farm;we+got+a+nasa+award+for+finding+exoplanets" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=700&color=E8B44A&center=true&vCenter=true&width=700&height=45&lines=i+took+large+language+models+apart+to+see+what+they+compute;i+helped+automate+an+aquaponics+farm;we+got+a+nasa+award+for+finding+exoplanets" alt="">
 </p>
 
 <p align="center">
@@ -14,7 +14,9 @@
   <a href="#guestbook"><img src="https://img.shields.io/badge/-guestbook-3D3428?style=flat-square&labelColor=3D3428" alt="guestbook"></a>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
+</p>
 
 ## about
 
@@ -26,7 +28,7 @@
                   actually is, then building things with it
   after hours ... mechanistic interpretability. taking language
                   models apart to see what they actually compute
-  fuelled by .... the stubborn need to make something different.
+  fuelled by .... the stubborn want to do something different.
                   something great
   ask me about .. sparse autoencoders, exoplanets, aquaponics
   don't ask ..... how much of it i was making up at the time.
@@ -37,7 +39,9 @@
   <sub>longer version at <a href="https://www.saianirudh.blog">saianirudh.blog</a></sub>
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
+</p>
 
 ## tools
 
@@ -66,7 +70,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh64210&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172" alt="">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
+</p>
 
 ## activity
 
@@ -103,7 +109,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
+</p>
 
 ## what i'm currently watching
 
@@ -111,7 +119,9 @@
   <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/watching.gif" width="480" alt="">
 </p>
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
+</p>
 
 ## projects
 
@@ -130,6 +140,8 @@ currently building:
   toki         a fully local, private ai notetaker. everything
                runs on the machine, nothing leaves it
 ```
+
+previously:
 
 ```
   glassbox     interpretability tooling for medical llms. surfaces
@@ -150,7 +162,9 @@ currently building:
                more yield
 ```
 
----
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
+</p>
 
 ## elsewhere
 
