@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:241c14,100:4a3728&text=SAI%20ANIRUDH%20SIDDI&fontColor=E8B44A&fontSize=40&fontAlignY=50&animation=fadeIn" alt="">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/header.svg" alt="Sai Anirudh Siddi">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=700&color=E8B44A&center=true&vCenter=true&width=700&height=45&lines=i+take+language+models+apart+to+see+what+they+compute;i+built+a+fish+tank+that+grew+its+own+vegetables;nasa+gave+me+an+award+for+finding+planets" alt="">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=700&color=E8B44A&center=true&vCenter=true&width=700&height=45&lines=i+take+language+models+apart+to+see+what+they+compute;i+help+automate+an+aquaponics+farm;we+got+a+nasa+award+for+finding+exoplanets" alt="">
 </p>
 
 <p align="center">
@@ -21,15 +21,16 @@
 ```
   name .......... sai anirudh siddi
   located ....... las vegas, nv
-  work .......... data engineer. pipelines, sql, and the
-                  unglamorous business of making data trustworthy
+  work .......... data engineer. pipelines and sql
+  focus ......... working out where the research frontier
+                  actually is, then building things with it
   after hours ... mechanistic interpretability. taking language
                   models apart to see what they actually compute
   fuelled by .... the stubborn need to make something different.
                   something great
   ask me about .. sparse autoencoders, exoplanets, aquaponics
-  don't ask ..... how i got here. still waiting for someone to
-                  notice and quietly ask me to leave
+  don't ask ..... how much of it i was making up at the time.
+                  the answer has not improved with experience
 ```
 
 <p align="center">
@@ -100,11 +101,15 @@
 <!-- ALMANAC:END -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/output/snake.svg" alt="">
+  <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
 </p>
 
+---
+
+## what i'm currently watching
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
+  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/watching.gif" width="480" alt="">
 </p>
 
 ---
@@ -120,7 +125,12 @@
   <a href="https://github.com/Anirudh64210/Personal-Blog-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh64210&repo=Personal-Blog-Portfolio&show_owner=false&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt=""></a>
 </p>
 
-not on github:
+currently building:
+
+```
+  toki         a fully local, private ai notetaker. everything
+               runs on the machine, nothing leaves it
+```
 
 ```
   glassbox     interpretability tooling for medical llms. surfaces
@@ -128,16 +138,17 @@ not on github:
                tracks uncertainty as the model generates
 
   exoseeker    exoplanet detection on kepler data, >90% accuracy.
-               best use of nasa data at the space apps challenge,
-               2000+ entrants
+               we took best use of nasa data at the space apps
+               challenge, 2000+ entrants
 
   needlehelp   iot and ml for real-time robotic control. >90%
                system accuracy. first place at ohio's largest
                hackathon, 140 teams
 
-  aquaponics   1,000 sensor readings a day across water, ph and
-               environment. cut manual intervention 40% and put
-               20% more yield on the crop
+  aquaponics   automation for a working aquaponics farm. 1,000
+               sensor readings a day across water, ph and
+               environment. 40% less manual intervention, 20%
+               more yield
 ```
 
 ---
