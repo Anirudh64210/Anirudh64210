@@ -72,27 +72,22 @@ def render(calendar):
         for day in week["contributionDays"]
     )
 
+    # the calendar spans the last 12 months; keep only the current year
+    year = int(days[-1][0][:4])
+    days = [(iso, count) for iso, count in days if iso.startswith(str(year))]
+
     months = OrderedDict()
     for iso, count in days:
-        key = (int(iso[:4]), int(iso[5:7]))
-        months[key] = months.get(key, 0) + count
-
-    # the calendar starts mid-month a year back, so the first month is a
-    # stub -- drop empty leading months rather than open on a dead row
-    keys = list(months)
-    while len(keys) > 1 and months[keys[0]] == 0:
-        del months[keys.pop(0)]
+        month = int(iso[5:7])
+        months[month] = months.get(month, 0) + count
 
     peak = max(months.values()) or 1
-    lines = ["  ── the almanac ──────────────────────", ""]
+    total = sum(months.values())
 
-    year = None
-    for (this_year, month), count in months.items():
-        if this_year != year:
-            if year is not None:
-                lines.append("")
-            lines.append("   %d" % this_year)
-            year = this_year
+    title = "  ── the almanac · %d " % year
+    lines = [title + "─" * max(4, 38 - len(title)), ""]
+
+    for month, count in months.items():
         # a month with any activity always earns at least one block
         filled = max(1, round(count / peak * WIDTH)) if count else 0
         bar = "█" * filled + "░" * (WIDTH - filled)
@@ -102,9 +97,9 @@ def render(calendar):
     lines += [
         "",
         "  " + "─" * 36,
-        "   busiest month .. %s %d" % (MONTHS[busiest[1] - 1], busiest[0]),
+        "   busiest month .. %s" % MONTHS[busiest - 1],
         "   longest streak . %d days" % longest_streak(days),
-        "   total .......... %d" % calendar["totalContributions"],
+        "   total .......... %d" % total,
     ]
     return "```\n" + "\n".join(lines) + "\n```"
 
