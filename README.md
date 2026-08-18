@@ -90,7 +90,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
 </p>
 
-## what i'm currently watching
+## what i'm currently watching :) ( 10/10 recommend)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/watching.gif" width="480" alt="">
