@@ -14,10 +14,6 @@
   <a href="#guestbook"><img src="https://img.shields.io/badge/-guestbook-3D3428?style=flat-square&labelColor=3D3428" alt="guestbook"></a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
-</p>
-
 ## about
 
 ```
@@ -37,10 +33,6 @@
 
 <p align="center">
   <sub>longer version at <a href="https://www.saianirudh.blog">saianirudh.blog</a></sub>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
 </p>
 
 ## tools
@@ -68,10 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh64210&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172" alt="">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
 </p>
 
 ## activity
@@ -109,18 +97,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
-</p>
-
 ## what i'm currently watching
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/watching.gif" width="480" alt="">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
 </p>
 
 ## projects
@@ -161,10 +141,6 @@ previously:
                environment. 40% less manual intervention, 20%
                more yield
 ```
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/divider.svg" alt="">
-</p>
 
 ## elsewhere
 
