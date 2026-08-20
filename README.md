@@ -76,12 +76,12 @@
    may  ███░░░░░░░░░░░░░   20
    jun  █████░░░░░░░░░░░   38
    jul  ████████████████  127
-   aug  █████████░░░░░░░   75
+   aug  ███████████░░░░░   89
 
   ────────────────────────────────────
    busiest month .. jul
-   longest streak . 6 days
-   total .......... 287
+   longest streak . 7 days
+   total .......... 301
 ```
 
 <!-- ALMANAC:END -->
