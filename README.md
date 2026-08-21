@@ -24,11 +24,8 @@
                   actually is, then building things with it
   after hours ... mechanistic interpretability. taking language
                   models apart to see what they actually compute
-  fuelled by .... the stubborn want to do something different.
+  fuelled by .... a desire to do something different.
                   something great
-  ask me about .. sparse autoencoders, exoplanets, aquaponics
-  don't ask ..... how much of it i was making up at the time.
-                  the answer has not improved with experience
 ```
 
 <p align="center">
