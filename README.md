@@ -19,7 +19,7 @@
 ```
   name .......... sai anirudh siddi
   located ....... las vegas, nv
-  work .......... data engineer. pipelines and sql
+  work .......... AI engineering, Data and ML pipelines and building products
   focus ......... working out where the research frontier
                   actually is, then building things with it
   after hours ... mechanistic interpretability. taking language
