@@ -1,65 +1,76 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/header.svg" alt="Sai Anirudh Siddi">
+  <img src="assets/nameplate.svg" alt="Sai Anirudh Siddi">
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=28&duration=3500&pause=700&color=E8B44A&center=true&vCenter=true&width=700&height=45&lines=i+took+large+language+models+apart+to+see+what+they+compute;i+helped+automate+an+aquaponics+farm;we+got+a+nasa+award+for+finding+exoplanets" alt="">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="assets/typing-light.svg">
+    <img src="assets/typing.svg" alt="now building toki, a notetaker that never phones home">
+  </picture>
 </p>
 
-<p align="center">
-  <a href="#about"><img src="https://img.shields.io/badge/-about-3D3428?style=flat-square&labelColor=3D3428" alt="about"></a>
-  <a href="#tools"><img src="https://img.shields.io/badge/-tools-3D3428?style=flat-square&labelColor=3D3428" alt="tools"></a>
-  <a href="#activity"><img src="https://img.shields.io/badge/-activity-3D3428?style=flat-square&labelColor=3D3428" alt="activity"></a>
-  <a href="#projects"><img src="https://img.shields.io/badge/-projects-3D3428?style=flat-square&labelColor=3D3428" alt="projects"></a>
-  <a href="#guestbook"><img src="https://img.shields.io/badge/-guestbook-3D3428?style=flat-square&labelColor=3D3428" alt="guestbook"></a>
-</p>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-hello-light.svg"><img src="assets/title-hello.svg" alt="hello"></picture>
 
-## about
+<img src="assets/hello@8x.gif" width="150" height="192" align="right" alt="Pixel Ani waving hello">
+
+hi, i'm **ani**.
+
+i work with ai for a living. after hours i work on hobby projects for fun, and on solving problems with technology.
+
+meng in cs from the university of cincinnati. now in las vegas, fuelled by a desire to do something different. something great.
+
+<sub>longer version at <a href="https://www.saianirudh.blog">saianirudh.blog</a></sub>
+
+<br clear="right">
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-abilities-light.svg"><img src="assets/title-abilities.svg" alt="abilities"></picture>
+
+<img src="assets/work@8x.gif" width="150" height="192" align="left" alt="Pixel Ani typing on a laptop at his desk">
 
 ```
-  name .......... sai anirudh siddi
-  located ....... las vegas, nv
-  work .......... AI engineering, Data and ML pipelines and building products
-  focus ......... working out where the research frontier
-                  actually is, then building things with it
-  after hours ... mechanistic interpretability. taking language
-                  models apart to see what they actually compute
-  fuelled by .... a desire to do something different.
-                  something great
+  class ...... ai engineer, product builder
+  base ....... las vegas, nv
+  status ..... ai fellow at handshake ai
+               volunteer engineer at an ngo
+               building toki
+
+  ai engineering ....... llm apps and agents,
+                         prototype to production
+  product building ..... idea to shipped product,
+                         end to end
+  data + ml pipelines .. pipelines that stay up
+                         at 3am
+  iot + ml ............. sensors in, decisions out
+  interpretability ..... opening models up to see
+                         what they compute
 ```
 
-<p align="center">
-  <sub>longer version at <a href="https://www.saianirudh.blog">saianirudh.blog</a></sub>
-</p>
+<br clear="left">
 
-## tools
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-inventory-light.svg"><img src="assets/title-inventory.svg" alt="inventory"></picture>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14110E?style=flat-square&logo=python&logoColor=E8B44A" alt="">
-  <img src="https://img.shields.io/badge/Rust-14110E?style=flat-square&logo=rust&logoColor=E8B44A" alt="">
-  <img src="https://img.shields.io/badge/Go-14110E?style=flat-square&logo=go&logoColor=E8B44A" alt="">
-  <img src="https://img.shields.io/badge/Scala-14110E?style=flat-square&logo=scala&logoColor=E8B44A" alt="">
-  <img src="https://img.shields.io/badge/SQL-14110E?style=flat-square&logo=postgresql&logoColor=E8B44A" alt="">
-  <img src="https://img.shields.io/badge/C-14110E?style=flat-square&logo=c&logoColor=E8B44A" alt="">
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-14110E?style=flat-square&logo=pytorch&logoColor=7F9172" alt="">
-  <img src="https://img.shields.io/badge/Transformers-14110E?style=flat-square&logo=huggingface&logoColor=7F9172" alt="">
-  <img src="https://img.shields.io/badge/LangChain-14110E?style=flat-square&logo=langchain&logoColor=7F9172" alt="">
-  <img src="https://img.shields.io/badge/FastAPI-14110E?style=flat-square&logo=fastapi&logoColor=7F9172" alt="">
-  <img src="https://img.shields.io/badge/Docker-14110E?style=flat-square&logo=docker&logoColor=7F9172" alt="">
-  <img src="https://img.shields.io/badge/Kubernetes-14110E?style=flat-square&logo=kubernetes&logoColor=7F9172" alt="">
-  <br>
-  <img src="https://img.shields.io/badge/Spark-14110E?style=flat-square&logo=apachespark&logoColor=C1633C" alt="">
-  <img src="https://img.shields.io/badge/Snowflake-14110E?style=flat-square&logo=snowflake&logoColor=C1633C" alt="">
-  <img src="https://img.shields.io/badge/AWS-14110E?style=flat-square&logo=amazonwebservices&logoColor=C1633C" alt="">
-  <img src="https://img.shields.io/badge/Linux-14110E?style=flat-square&logo=linux&logoColor=C1633C" alt="">
+  <img src="assets/inventory.svg" alt="python, rust, go, scala, sql, c, pytorch, transformers, langchain, fastapi, docker, k8s, spark, snowflake, aws, linux">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anirudh64210&layout=compact&langs_count=8&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172" alt="">
-</p>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-quest-log-light.svg"><img src="assets/title-quest-log.svg" alt="quest log"></picture>
 
-## activity
+```
+  + completed
+    glassbox .... x-ray for medical llms. 15+ sae features
+                  live during inference, flags when the
+                  model is unsure of itself
+    exoseeker ... exoplanets in kepler data, >90% accuracy
+                  loot: best use of nasa data, space apps
+    needlehelp .. iot + ml for real-time robotic control
+                  loot: 1st of 140 teams, ohio's largest
+                  hackathon
+    aquaponics .. taught a working fish farm to run itself
+                  1,000 readings a day, 40% less
+                  babysitting, 20% more yield
+```
+
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-xp-log-light.svg"><img src="assets/title-xp-log.svg" alt="xp log"></picture>
 
 <!-- ALMANAC:START -->
 
@@ -84,70 +95,21 @@
 
 <!-- ALMANAC:END -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anirudh64210&show_icons=true&include_all_commits=true&hide_title=true&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt="">
-</p>
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-pizza-break-light.svg"><img src="assets/title-pizza-break.svg" alt="pizza break"></picture>
 
-## what i'm currently watching :) ( 10/10 recommend)
+<img src="assets/eat@8x.gif" width="150" height="192" align="right" alt="Pixel Ani eating a slice of pizza">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anirudh64210/Anirudh64210/main/assets/watching.gif" width="480" alt="">
-</p>
+<img src="assets/watching.gif" width="400" alt="what i'm currently watching">
 
-## projects
+<sub>what's on while i eat. 10/10 recommend</sub>
 
-<p align="center">
-  <a href="https://github.com/Anirudh64210/career-ops"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh64210&repo=career-ops&show_owner=false&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt=""></a>
-  <a href="https://github.com/Anirudh64210/hiring-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh64210&repo=hiring-agent&show_owner=false&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt=""></a>
-</p>
-<p align="center">
-  <a href="https://github.com/Anirudh64210/Forensics_Tool"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh64210&repo=Forensics_Tool&show_owner=false&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt=""></a>
-  <a href="https://github.com/Anirudh64210/Personal-Blog-Portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Anirudh64210&repo=Personal-Blog-Portfolio&show_owner=false&hide_border=true&bg_color=14110E&text_color=D9CDB8&icon_color=7F9172&title_color=E8B44A" alt=""></a>
-</p>
+<br clear="right">
 
-currently building:
+<picture><source media="(prefers-color-scheme: light)" srcset="assets/title-say-hi-light.svg"><img src="assets/title-say-hi.svg" alt="say hi"></picture>
 
-```
-  toki         a fully local, private ai notetaker. everything
-               runs on the machine, nothing leaves it
-```
+looking for an ai engineer, or someone to build a product with? or just want to say hi and grab a coffee? reach out.
 
-previously:
-
-```
-  glassbox     interpretability tooling for medical llms. surfaces
-               15+ sae feature activations during inference and
-               tracks uncertainty as the model generates
-
-  exoseeker    exoplanet detection on kepler data, >90% accuracy.
-               we took best use of nasa data at the space apps
-               challenge, 2000+ entrants
-
-  needlehelp   iot and ml for real-time robotic control. >90%
-               system accuracy. first place at ohio's largest
-               hackathon, 140 teams
-
-  aquaponics   automation for a working aquaponics farm. 1,000
-               sensor readings a day across water, ph and
-               environment. 40% less manual intervention, 20%
-               more yield
-```
-
-## elsewhere
-
-<p align="center">
-  <a href="https://www.saianirudh.blog"><img src="https://img.shields.io/badge/-saianirudh.blog-E8B44A?style=flat-square&logoColor=14110E" alt=""></a>
-  <a href="https://www.linkedin.com/in/sai-anirudh-siddi/"><img src="https://img.shields.io/badge/-linkedin-3D3428?style=flat-square" alt=""></a>
-  <a href="mailto:siddish@mail.uc.edu"><img src="https://img.shields.io/badge/-email-3D3428?style=flat-square" alt=""></a>
-</p>
-
-## guestbook
-
-<p align="center">
-  <a href="https://github.com/Anirudh64210/Anirudh64210/issues/new?title=hello&body=say+something">sign the guestbook</a>
-</p>
-
-<br>
+<a href="https://www.saianirudh.blog">saianirudh.blog</a> · <a href="https://www.linkedin.com/in/sai-anirudh-siddi/">linkedin</a> · <a href="mailto:siddish@mail.uc.edu">email</a> · <a href="https://github.com/Anirudh64210/Anirudh64210/issues/new?title=hello&body=say+something">sign the guestbook</a>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Anirudh64210&style=flat-square&color=6b705c&label=visitors" alt="">
