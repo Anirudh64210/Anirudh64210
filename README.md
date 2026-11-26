@@ -87,12 +87,12 @@ meng in cs from the university of cincinnati. now in las vegas, fuelled by a des
    aug  █░░░░░░░░░░░░░░░   95
    sep  █░░░░░░░░░░░░░░░   74
    oct  █░░░░░░░░░░░░░░░   71
-   nov  ████████████████ 1278
+   nov  ████████████████ 1281
 
   ────────────────────────────────────
    busiest month .. nov
-   longest streak . 13 days
-   total .......... 1730
+   longest streak . 14 days
+   total .......... 1733
 ```
 
 <!-- ALMANAC:END -->
